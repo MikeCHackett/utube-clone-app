@@ -1,3 +1,15 @@
+# FaceCook
+
+This is a React application that utilizes the MUI styled components library as well as Rapid API to display a fully functional and mobile responsive YouTube clone application.
+
+## Description
+
+The purpose of this project was to display my knowledge of fetch data in API's.
+I also wanted to gain a better understanding of the MUI library works and styled components.
+I created fully functional search bar that can search for video ID's or channel ID's to show Channel details or just videos that users search for.
+
+[View Project here](https://u-tube-clone-app.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
