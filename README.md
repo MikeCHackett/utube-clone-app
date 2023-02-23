@@ -1,4 +1,4 @@
-# FaceCook
+# Utube clone application
 
 This is a React application that utilizes the MUI styled components library as well as Rapid API to display a fully functional and mobile responsive YouTube clone application.
 
